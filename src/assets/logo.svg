@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" fill="none">
+  <rect x="0" y="8" width="48" height="48" rx="4" fill="#111111"/>
+  <path d="M8 40 L24 16 L28 16 L12 40 Z" fill="#C8102E"/>
+  <path d="M20 40 L36 16 L40 16 L24 40 Z" fill="#FFFFFF"/>
+  <path d="M32 40 L40 28 L44 28 L36 40 Z" fill="#C8102E"/>
+  <text x="60" y="30" font-family="Arial Black, Arial, sans-serif" font-size="18" font-weight="800" fill="#111111" letter-spacing="1.5">SEEMA</text>
+  <text x="60" y="50" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#1C1C1C" letter-spacing="4">ENTERPRISE</text>
+  <rect x="60" y="34" width="40" height="2" fill="#C8102E"/>
+</svg>
